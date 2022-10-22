@@ -1,9 +1,9 @@
-pyuic5 arquivo.ui -o arquivo.py
+# Comando para converter um arquivo formato .ui para .py:   pyuic5 arquivo.ui -o arquivo.py
 
 
 
 
-Codigo que vai no final do arquivo ''py'' gerado. responsavel por ler o grafico e chamar:
+#Codigo que vai no final do arquivo ''py'' gerado. responsavel por ler o grafico e chamar:
 
 
 if __name__ == "__main__":
